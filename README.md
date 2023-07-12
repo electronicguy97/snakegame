@@ -1,6 +1,6 @@
 # snakegame
 Built using gpt-engineer 
-**[Gpt-engineer GitHub](https://github.com/AntonOsika/gpt-engineer)**
+**[Gpt-engineer GitHub Link](https://github.com/AntonOsika/gpt-engineer)**
 
 새로나온 GPT-engineer를 활용하여 snakegame을 만들어 보았습니다.
 
